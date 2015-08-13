@@ -28,7 +28,7 @@ Anatomy of typical DH project (Tina W.)
 You stuff
 =========
 
-# Why did you take this class? (maybe not this)
+Why did you take this class? (maybe not this)
 
 What is DH?
 
