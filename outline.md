@@ -22,6 +22,8 @@ People who work here
 
 What do I do, by myself and with them
 
+Anatomy of typical DH project (Tina W.)
+
 
 You stuff
 =========
