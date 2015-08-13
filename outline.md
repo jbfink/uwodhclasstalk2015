@@ -28,8 +28,11 @@ Anatomy of typical DH project (Tina W.)
 You stuff
 =========
 
-Why did you take this class?
+# Why did you take this class? (maybe not this)
+
+What is DH?
 
 What's *your* DH?
+
 
 
